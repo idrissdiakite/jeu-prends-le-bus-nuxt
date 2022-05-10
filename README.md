@@ -16,3 +16,5 @@ Lorsque j'ai intégré Zelda Communication en octobre 2021, le développement et
 - reprendre et mettre à jour certains jeux qui avaient déja été développé
 - incorporer l'univers sonore - différentes musiques de fond en fonction du jeu et de l'époque ainsi que tous les bruitages sonores
 - effectuer plusieurs recettages du Jeu afin de corriger les différents bugs
+
+À suivre..
