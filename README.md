@@ -26,6 +26,6 @@ Exemples de mini-jeux entièrement développés par mes soins:
 
 **Description** 
 
-Des usagers ont "perdu" leur titre de transport, le but est donc de le retrouver (en cliquant dessus) avant qu'il n'atteigne le validateur. Le validateur teste toutes les 5s si l'usager est "ok" ou "ko". Si ok: le validateur passe au vert et l'utilisateur peut rentrer. Si ko: le validateur passe au rouge et l'utilisateur retourne dans la file. Et ainsi de suite jusqu'à ce qu'il n'y est plus personne dans la file.
+Des usagers ont "perdu" leur titre de transport, le but est donc de le retrouver (en cliquant dessus) avant qu'ils n'atteignent le validateur. Le validateur teste toutes les 5s si l'usager est "ok" ou "ko". Si ok: le validateur passe au vert et l'utilisateur peut rentrer. Si ko: le validateur passe au rouge et l'utilisateur retourne dans la file. Et ainsi de suite jusqu'à ce qu'il n'y est plus personne dans la file.
 
 <a href="https://drive.google.com/file/d/1ABmIoFVGg1guKAw6Nep_3H3UR5Qf3XH6" target="_blank">demo</a>
