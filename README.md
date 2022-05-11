@@ -48,7 +48,7 @@ Des personnages sont affichés par paire en "ombre chinoise". Il faut trouver ce
 
 **Description** 
 
-Le bouton demander l'arrêt est cassé, pour le réparer il faut cliquer (dans le bon ordre) sur les symboles correspondant à celui affiché à gauche. Si le symbole cliqué est le bon, une animation apparait (avec effet sonore). Si non, le panneau éléctrique subit un "wizz". Le jeu prend fin lorsqu'on appuye sur le bouton stop (débloqué uniquement après avoir terminé les 3 étapes).
+Le bouton demander l'arrêt est cassé, pour le réparer il faut cliquer (dans le bon ordre) sur les symboles correspondant à celui affiché à gauche. Si le symbole cliqué est le bon, une animation apparait (avec effet sonore). Si non, le panneau éléctrique subit un "wizz". Le jeu prend fin lorsqu'on parvient à appuyer sur le bouton stop (débloqué après avoir terminé les 3 étapes).
 
 <a href="https://drive.google.com/file/d/13pNiTwA2VqMyzR3r7_5EEQaOr9gOrU4x" target="_blank">demo</a>
 
