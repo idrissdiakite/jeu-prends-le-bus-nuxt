@@ -53,6 +53,6 @@ Le bouton demander l'arrêt est cassé, pour le réparer il faut cliquer (dans l
 <a href="https://drive.google.com/file/d/13pNiTwA2VqMyzR3r7_5EEQaOr9gOrU4x" target="_blank">demo</a>
 
 
-💫 Démo officielle
+## 💫 Live
 
 [http://demo.jeu-prends-le-bus.zelllda.fr/](http://demo.jeu-prends-le-bus.zelllda.fr/)
