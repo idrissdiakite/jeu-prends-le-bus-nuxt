@@ -2,7 +2,7 @@
 
 ![Screenshot](screenshot.png)
 
-Participation au développement d'un jeu numérique et éducatif: Jeu Prends Le Bus. Au travers notamment de plusieurs mini jeux (en plus d'un jeu plateau), l'objectif est de sensibiliser le jeune public à l'usage des transports scolaires, d'apprendre les règles de vie dans les transports en commun de façon ludique et de positioner le réseau comme un acteur actif et bienveillant pour la santé des enfants. 
+Participation au développement d'un jeu numérique et éducatif: Jeu Prends Le Bus. Au travers notamment de plusieurs mini jeux (en plus d'un jeu plateau), l'objectif est de sensibiliser le jeune public à l'usage des transports scolaires, d'apprendre les règles de vie dans les transports en commun de façon ludique et de positioner le réseau comme un acteur actif et bienveillant pour la santé des enfants.
 
 Le projet a été réalisé sous NuxtJs pour la partie front et Wordpress (+ ACF) pour la partie back.
 
