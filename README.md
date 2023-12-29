@@ -11,7 +11,7 @@ Lorsque j'ai intégré Zelda Communication en octobre 2021, le développement et
 
 - développer tous les mini-jeux de la dernière époque (3 époques en tout ~ 5 jeux par époque)
 - mettre en place le back-office (via Wordpress et ACF) pour les jeux que j'ai développé ([exemple](https://youtu.be/QJ_lB0QcJWw?si=jqmFwVj7IvDTXSZ9))
-- modifier des SVG via Illustrator afin d'ajouter calques et #id ([voir jeu validate](https://github.com/idrissdiakite/jeu-prends-le-bus-nuxt/tree/main/components/Game/Play/Validate))
+- modifier des SVG via Illustrator afin d'ajouter calques et #id ([jeu validate](https://github.com/idrissdiakite/jeu-prends-le-bus-nuxt/tree/main/components/Game/Play/Validate))
 - reprendre et mettre à jour certains jeux qui avaient déja été développé
 - incorporer l'univers sonore - différentes musiques de fond en fonction du jeu et de l'époque ainsi que tous les bruitages sonores
 - effectuer plusieurs recettages du Jeu afin de corriger les différents bugs
